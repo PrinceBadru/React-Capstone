@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-  <h3><b>React Capstone</b></h3>
+  <h3><b>Cryptocurrency</b></h3>
 
 </div>
 
@@ -26,9 +26,15 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Space X Travellers Hub] <a name="about-project"></a>
+# 📖 [Crypto Metrics] <a name="about-project"></a>
 
-**[Space X Travellers Hub]** "React-Capstone" is website that allows users to see real time cryptocurrency data and analytics.
+**[Crypto Metrics]** "Crypto Metrics" This application allows acccess crypto Data and real time information of all coins.
+
+![Demo images](./public/Screenshot%20(37).png)
+![Demo images](./public/Screenshot%20(38).png)
+
+
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,18 +53,18 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[ Homepage]**
-- **[Live cryptocurrency prices ]**
-- **[ Real time details of te cryptocurrency]**
-
-
+- **[Crypto Details]**
+- **[Search panel]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Live demo <a name="live-demo"></a>
 
-[Live Demo]
+[Live Demo]()
+[Live Presentation]()
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,20 +86,20 @@ Install [Node Js](https://nodejs.org/en) and [NPM](https://docs.npmjs.com/cli/v6
 Open your commandline (if your are on windows ) or Terminal (if you are on Mac or Linux) and paste this command:
 
 ```sh
-git clone 
+git https://github.com/PrinceBadru/React-Capstone.git
 ```
 
-then you will see the **spacex-travellers-hub** on your system then type this:
+then you will see the **Metrics Capstone** on your system then type this:
 
 ```sh
-cd 
+cd Metrics Capstone
 ```
 
 Now you successfully installed it.
 
 ### Usage
 
-Inside **React Capstone** on a terminal, type npm i to install dependencies
+Inside **Metrics Capstone** on a terminal, type npm i to install dependencies
 After dependencies are installed, type npm start
 
 ### Run tests
@@ -119,10 +125,15 @@ You can deploy this project using:
 - GitHub: [@PrinceBadru]
 - Twitter: [@NdawulaBadru]
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Contact component]**
+- [ ] **[Contact Comp]**
+- [ ] **[Microphone Search Feature]**
+- [ ] **[Application Settings]**
+- [ ] **[Account login/Register]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,7 +144,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page] (https://github.com/the-faizmohammad/spacex-travellers-hub/issues).
+Feel free to check the [issues page](https://github.com/PrinceBadru/React-Capstone/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,7 +160,8 @@ If you like this definely star the project. Grab a virtual coffee session with t
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Original design idea by Nelson Sakwa on Behance. (https://www.behance.net/sakwadesignstudio)
+Inspiration [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
+Microverse student community
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
