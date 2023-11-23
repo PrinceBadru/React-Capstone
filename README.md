@@ -61,8 +61,8 @@
 
 ### Live demo <a name="live-demo"></a>
 
-[Live Demo]()
-[Live Presentation]()
+[Live Demo](#https://princebadru.github.io/React-Capstone/)
+[Live Presentation](https://www.loom.com/share/7fb9baa8bf5c4606b047c9bfc06ea247?sid=e139823a-3131-453f-9625-1f90deb6d09f)
 
 
 
@@ -133,7 +133,6 @@ You can deploy this project using:
 - [ ] **[Contact Comp]**
 - [ ] **[Microphone Search Feature]**
 - [ ] **[Application Settings]**
-- [ ] **[Account login/Register]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
