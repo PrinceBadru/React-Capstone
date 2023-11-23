@@ -78,7 +78,7 @@
   height: 9vh;
   display: flex;
   flex-direction: column;
-  justify-content: top;
+  justify-content: center;
   align-items: center;
 }
 
@@ -88,8 +88,8 @@
   padding: 7px;
   border-radius: 3px;
   color: #ffff;
-  width: 199px; 
-  margin-bottom: 11px; 
+  width: 199px;
+  margin-bottom: 11px;
 }
 
 .nav-section {
