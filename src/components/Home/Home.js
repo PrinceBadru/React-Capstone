@@ -37,7 +37,7 @@ const Home = () => {
               <Card
                 className="p-2"
                 style={{
-                  backgroundColor: index % 2 === 0 ? 'red' : 'lightred',
+                  backgroundColor: index % 2 === 0 ? 'red' : 'pink',
                   color: 'white',
                   padding: '7px',
                   height: '96%',
