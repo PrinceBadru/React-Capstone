@@ -61,7 +61,7 @@
 
 ### Live demo <a name="live-demo"></a>
 
-[Live Demo](#https://princebadru.github.io/React-Capstone/)
+[Live Demo](https://cryptocurrencyapp123.netlify.app/) 
 [Live Presentation](https://www.loom.com/share/7fb9baa8bf5c4606b047c9bfc06ea247?sid=e139823a-3131-453f-9625-1f90deb6d09f)
 
 
@@ -89,17 +89,17 @@ Open your commandline (if your are on windows ) or Terminal (if you are on Mac o
 git https://github.com/PrinceBadru/React-Capstone.git
 ```
 
-then you will see the **Metrics Capstone** on your system then type this:
+then you will see the **Cryptocurrency** on your system then type this:
 
 ```sh
-cd Metrics Capstone
+cd Cryptocurrency
 ```
 
 Now you successfully installed it.
 
 ### Usage
 
-Inside **Metrics Capstone** on a terminal, type npm i to install dependencies
+Inside ** ** on a terminal, type npm i to install dependencies
 After dependencies are installed, type npm start
 
 ### Run tests
