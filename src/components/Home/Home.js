@@ -16,8 +16,11 @@ const Home = () => {
     dispatch(fetchCrypto(searchQuery));
   }, [dispatch, searchQuery]);
 
-  // eslint-disable-next-line max-len
-  const filteredCryptos = cryptos && cryptos.filter((crypto) => crypto.name.toLowerCase().includes(searchQuery.toLowerCase()));
+  const filteredCryptos = cryptos && cryptos.filter((crypto) => {
+    const lowerCaseName = crypto.name.toLowerCase();
+    const lowerCaseSearchQuery = searchQuery.toLowerCase();
+    return lowerCaseName.includes(lowerCaseSearchQuery);
+  });
 
   return (
     <div className="home-div">
@@ -34,7 +37,7 @@ const Home = () => {
               <Card
                 className="p-2"
                 style={{
-                  backgroundColor: index % 2 === 0 ? 'red' : 'red',
+                  backgroundColor: index % 2 === 0 ? 'red' : 'lightred',
                   color: 'white',
                   padding: '7px',
                   height: '96%',

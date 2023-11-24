@@ -1,13 +1,8 @@
 import React, { useState } from 'react';
+import PropTypes from 'prop-types';
 
-// eslint-disable-next-line react/prop-types
 const Search = ({ setSearchQuery }) => {
   const [localSearchQuery, setLocalSearchQuery] = useState('');
-
-  // eslint-disable-next-line no-unused-vars
-  const handleSearch = () => {
-    setSearchQuery(localSearchQuery);
-  };
 
   return (
     <div className="search-bar">
@@ -23,6 +18,10 @@ const Search = ({ setSearchQuery }) => {
       />
     </div>
   );
+};
+
+Search.propTypes = {
+  setSearchQuery: PropTypes.func.isRequired,
 };
 
 export default Search;
